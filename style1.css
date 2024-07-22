@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: radial-gradient(plum,lightskyblue,pink)
+}
+.wedpage{
+    color: beige;
+}
+.section1 p{
+    color: mistyrose;
+}
+.section1 h2{
+    font-size: medium;
+    color: cyan;
+}
+.section1 h3{
+    font-size: medium;
+    color: darkslateblue;
+}
+.section1 h4{
+    font-size: medium;
+    color: lemonchiffon;
+}
+.section1 h5{
+    font-size: medium;
+    color: khaki;
+}
+.section1 h6{
+    font-size: medium;
+    color: rgb(55, 124, 133);
+}
+.footer1 p{
+    color: lavender;
+}
